@@ -6,7 +6,8 @@
 
 [View my Portfolio here](https://tonipow3ll.github.io/)
 
-#### 📫 Email: tonipow3ll@gmail.com
+####  Email: tonipow3ll@gmail.com
+### [LinkedIn](https://www.linkedin.com/in/tonipowell13)
 
-#### ⚡ If I am not coding, you can usually find me outside - riding my snowmobile or out exploring on my ATV depending on the season. 
+#### If I am not coding, you can usually find me outside - riding my snowmobile or out exploring on my ATV depending on the season. 
 
