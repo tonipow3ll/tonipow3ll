@@ -1,6 +1,6 @@
 # Hi, my name is Toni. 
 
-### I’m currently attending UNH's Coding Bootcamp, and learning HTML/CSS, Javascript, as well as learning MERN stack. 
+### I am an aspiring Front End Developer, looking to land my first role in Tech. 
 
 ### I am excited to continue learning, and hopefully join a team where I can grow my skills. 
 
